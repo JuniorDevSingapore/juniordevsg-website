@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JuniorDev.SG</title>
+    <link>http://juniordev.sg/posts/</link>
+    <description>Recent content in Posts on JuniorDev.SG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 10:12:48 +0800</lastBuildDate>
+    
+	<atom:link href="http://juniordev.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://juniordev.sg/posts/first-post/</link>
+      <pubDate>Tue, 09 Jan 2018 10:12:48 +0800</pubDate>
+      
+      <guid>http://juniordev.sg/posts/first-post/</guid>
+      <description>Our target audience are junior devs (but not exclusively just junior devs). Devs of all levels have something to share and learn.
+We hope this can help junior devs in Singapore level up, become better at the craft of software engineering. And eventually become effective tech leads.</description>
+    </item>
+    
+  </channel>
+</rss>
