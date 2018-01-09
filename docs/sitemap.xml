@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://juniordev.sg/posts/first-post/</loc>
+    <loc>https://www.juniordev.sg/posts/first-post/</loc>
     <lastmod>2018-01-09T10:12:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://juniordev.sg/categories/</loc>
+    <loc>https://www.juniordev.sg/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://juniordev.sg/</loc>
-    <lastmod>2018-01-09T10:12:48+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://juniordev.sg/posts/</loc>
+    <loc>https://www.juniordev.sg/</loc>
     <lastmod>2018-01-09T10:12:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://juniordev.sg/tags/</loc>
+    <loc>https://www.juniordev.sg/posts/</loc>
+    <lastmod>2018-01-09T10:12:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.juniordev.sg/tags/</loc>
     <priority>0</priority>
   </url>
   

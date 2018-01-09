@@ -1,4 +1,4 @@
-baseURL = "http://juniordev.sg/"
+baseURL = "https://www.juniordev.sg/"
 languageCode = "en-us"
 title = "JuniorDev.SG"
 theme = "minimal"
