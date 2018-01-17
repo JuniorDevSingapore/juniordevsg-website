@@ -43,8 +43,8 @@ publishDir = "docs"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/juniordevsingapore/"
-    name = "github"
+    url = "https://www.facebook.com/groups/juniorDevSG/"
+    name = "facebook"
     weight = 2
 
 [[menu.icon]]
@@ -56,3 +56,8 @@ publishDir = "docs"
     url = "https://launchpass.com/kopijs"
     name = "slack"
     weight = 4
+
+[[menu.icon]]
+    url = "https://github.com/juniordevsingapore/"
+    name = "github"
+    weight = 5
