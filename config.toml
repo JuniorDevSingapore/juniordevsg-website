@@ -2,14 +2,12 @@ baseURL = "https://www.juniordev.sg/"
 languageCode = "en-us"
 title = "JuniorDev.SG"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 publishDir = "docs"
 
 [params]
-    author = "Michael Cheng"
+    author = "JunirDevSG"
     description = "Official website for JuniorDev.SG"
-    githubUsername = "#"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -17,6 +15,8 @@ publishDir = "docs"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    profilePic = "images/JDGreyCircle_small.png"
+    copyright = "Lovingly build by developers in Singapore"
 
 [[menu.main]]
     url = "/"
@@ -24,17 +24,22 @@ publishDir = "docs"
     weight = 1
 
 [[menu.main]]
+    url = "/about"
+    name = "About Us"
+    weight = 2
+
+[[menu.main]]
     url = "/posts/"
     name = "Posts"
-    weight = 2
+    weight = 3
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:admin+juniordevsg@codecraft.com.sg"
-    name = "envelope-o"
+    url = "https://www.meetup.com/Junior-Developers-Singapore/"
+    name = "meetup"
     weight = 1
 
 [[menu.icon]]
@@ -47,3 +52,7 @@ publishDir = "docs"
     name = "twitter"
     weight = 3
 
+[[menu.icon]]
+    url = "https://launchpass.com/kopijs"
+    name = "slack"
+    weight = 4
