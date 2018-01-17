@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Lovingly build by developers in Singapore</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 23:05:20 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 00:48:48 +0800</lastBuildDate>
     
 	<atom:link href="https://www.juniordev.sg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First JuniorDev SG Social</title>
+      <link>https://www.juniordev.sg/posts/first-juniordev-sg-social/</link>
+      <pubDate>Thu, 18 Jan 2018 00:48:48 +0800</pubDate>
+      
+      <guid>https://www.juniordev.sg/posts/first-juniordev-sg-social/</guid>
+      <description>Join us for our first JuniorDev SG Social!
+RSVP here: https://www.meetup.com/Junior-Developers-Singapore/events/246902756/
+ Date: Tuesday, February 13, 2018 Time: 7:00 PM to 9:00 PM Venue: HackerspaceSG
+344B King George&amp;rsquo;s Ave, Singapore 208576
+  Food &amp;amp; Drinks Sponsor</description>
+    </item>
     
     <item>
       <title>About Us</title>
