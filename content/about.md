@@ -13,10 +13,11 @@ We will be hosting a bi-monthly get-together known as the JuniorDev Social. Here
 
 In the months that we're not socialising we'll be coding! Every alternate month will see the JuniorDev Hack Night. Bring your laptops, questions and be ready to work on side hustles, tutorials, walkthroughs... or whatevs - we'll have mentors on hand to help out.
 
-Every month we'll be sending you all the resources and tid-bits that we come across on our coding journey. So come and be apart of a local community of incredible developers sharing knowledge, laughs, fails and fun!
+Join our slack channel #juniordevsg on the [KopiJS Slack Workspace](https://launchpass.com/kopijs)
 
 ## Join Our Community
 
 - Join the KopiJS Slack Chat: https://launchpass.com/kopijs
 - Meetup.com: https://www.meetup.com/Junior-Developers-Singapore/
 - Twitter: https://twitter.com/juniordevsg
+- Facebook: https://www.facebook.com/groups/juniorDevSG/
