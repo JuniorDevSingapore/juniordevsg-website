@@ -21,3 +21,7 @@ Join our slack channel #juniordevsg on the [KopiJS Slack Workspace](https://laun
 - Meetup.com: https://www.meetup.com/Junior-Developers-Singapore/
 - Twitter: https://twitter.com/juniordevsg
 - Facebook: https://www.facebook.com/groups/juniorDevSG/
+
+## JuniorDev.io
+
+We are the Singapore chapter of JuniorDev.io. Check out more Junior Developers community around the world (especially in Australia) at [http://JuniorDev.io](http://JuniorDev.io).
