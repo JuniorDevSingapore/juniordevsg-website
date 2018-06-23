@@ -14,6 +14,11 @@ main {
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
+    width: 100%;
+}
+
+ul {
+    word-wrap: break-word;
 }
 
 /*footer*/
@@ -30,7 +35,7 @@ main {
 
 .intro > h1 {
     color: #212121;
-    font-size: 12vh;
+    font-size: 12vmin;
 }
 
 .intro > h2 {
