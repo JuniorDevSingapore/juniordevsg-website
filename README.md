@@ -33,5 +33,13 @@ This site is build with [Hugo](https://gohugo.io).
 	```bash
 	hugo
 	```
-	
+
 	This will generate the static contents for the site in `docs` directory. Make a new commit and push to master.
+	
+
+6. Add the flag `--forceSyncStatic` for generating non-content static files
+
+	```bash
+	hugo --forceSyncStatic
+	```
+
