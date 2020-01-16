@@ -17,7 +17,7 @@ This site is build with [Hugo](https://gohugo.io).
 3. Initialize the Git submodule
 
 	```bash
-	git submodule update --init
+	git submodule update --init --remote
 	```
 
 4. To preview the site:
@@ -25,9 +25,9 @@ This site is build with [Hugo](https://gohugo.io).
 	```bash
 	hugo serve
 	```
-	
+
 	Open your browser to: [http://localhost:1313](http://localhost:1313)
-	
+
 5. To generate the new site:
 
 	```bash
@@ -35,7 +35,7 @@ This site is build with [Hugo](https://gohugo.io).
 	```
 
 	This will generate the static contents for the site in `docs` directory. Make a new commit and push to master.
-	
+
 
 6. Add the flag `--forceSyncStatic` for generating non-content static files
 
