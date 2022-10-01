@@ -24,7 +24,8 @@ This site is build with [Hugo](https://gohugo.io).
 
 4. Initialize the Git submodule
 
-    ```bash    git submodule update --init --remote
+    ```bash    
+   git submodule update --init --remote
     ```
 
 5. To preview the site:
