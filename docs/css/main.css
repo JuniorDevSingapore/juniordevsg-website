@@ -14,20 +14,13 @@ main {
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
-    width: 100%;
 }
 
-ul {
-    word-wrap: break-word;
+img {
+    max-width: 100%;
 }
 
-/*footer*/
-
-.copyright {
-    margin: 15px 0;
-}
-
-/*home page*/
+/* Homepage */
 
 .intro {
     transform: translateY(22vh);
@@ -35,7 +28,7 @@ ul {
 
 .intro > h1 {
     color: #212121;
-    font-size: 12vmin;
+    font-size: 12vh;
 }
 
 .intro > h2 {
@@ -43,13 +36,21 @@ ul {
     font-size: 3vmin;
 }
 
-.intro > .profile {
+/* Page content */
+
+.content {
+    padding-top: 20px;
+}
+
+/* Profile picture */
+
+.profile {
     width: 10vh;
     height: 10vh;
     border-radius: 50%;
 }
 
-/*apply accent colour to links*/
+/* Colored links */
 
 a:link, a:visited {
     color: var(--accent);
@@ -63,7 +64,13 @@ a:hover {
     color: var(--accent) !important;
 }
 
-/*paginator at bottom of list view*/
+/* Copyright message */
+
+.copyright {
+    margin: 15px 0;
+}
+
+/* Paginator */
 
 .pages {
     padding: 15px 0;
@@ -73,7 +80,7 @@ a:hover {
     padding: 0 15px;
 }
 
-/*list item for posts and projects*/
+/* List item for posts/projects */
 
 .item {
     padding: 10px 0;
@@ -83,14 +90,14 @@ a:hover {
     background-color: var(--accent);
 }
 
-/*navigation bar icons*/
+/* Navigation icons */
 
 .navbar-icon {
     font-size: 125%;
     display: inline-block !important;
 }
 
-/*coloured borders at top and bottom of the page*/
+/* Colored borders at top/bottom of page */
 
 .navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
@@ -98,8 +105,4 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
-}
-
-img {
-    max-width: 100%;
 }

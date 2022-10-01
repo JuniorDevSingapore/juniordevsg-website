@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on JuniorDev.SG</title>
@@ -6,11 +6,19 @@
     <description>Recent content in Posts on JuniorDev.SG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Lovingly build by developers in Singapore</copyright>
-    <lastBuildDate>Thu, 18 Jan 2018 00:48:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 10:47:48 +0800</lastBuildDate>
     
 	<atom:link href="https://www.juniordev.sg/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JuniorDev SG Mentoring Programme Batch 3</title>
+      <link>https://www.juniordev.sg/posts/mentoring-programme-batch-3/</link>
+      <pubDate>Thu, 01 Sep 2022 10:47:48 +0800</pubDate>
+      
+      <guid>https://www.juniordev.sg/posts/mentoring-programme-batch-3/</guid>
+      <description>This is the content for JuniorDevSG Batch 3</description>
+    </item>
     
     <item>
       <title>First JuniorDev SG Social</title>
@@ -20,8 +28,9 @@
       <guid>https://www.juniordev.sg/posts/first-juniordev-sg-social/</guid>
       <description>Join us for our first JuniorDev SG Social!
 RSVP here: https://www.meetup.com/Junior-Developers-Singapore/events/246902756/
- Date: Tuesday, February 13, 2018 Time: 7:00 PM to 9:00 PM Venue: HackerspaceSG
-344B King George&amp;rsquo;s Ave, Singapore 208576
+  Date: Tuesday, February 13, 2018
+  Time: 7:00 PM to 9:00 PM
+  Venue: HackerspaceSG344B King George&amp;rsquo;s Ave, Singapore 208576
   Food &amp;amp; Drinks Sponsor</description>
     </item>
     
