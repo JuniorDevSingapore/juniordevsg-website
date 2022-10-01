@@ -51,3 +51,16 @@ This site is build with [Hugo](https://gohugo.io).
 	hugo --forceSyncStatic
 	```
 
+## Add a New Post
+1. Add your new post as `title.md` to the `content` -> `posts` folder.
+2. Copy the following format for `title.md`
+```markdown
+---
+title: "Title of your new post"
+date: YYYY-MM-HHTMM:SS:48+08:00 
+slug: "title-post"
+---
+
+Enter your content here
+
+```
