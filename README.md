@@ -10,31 +10,38 @@ This site is build with [Hugo](https://gohugo.io).
 
 	On MacOS:
 
-	```bash
-	brew install hugo
-	```
+    ```bash
+    brew install hugo
+    ```
+   
+	On Windows WSL2:
 
-3. Initialize the Git submodule
+    ```bash
+   sudo apt update 
+   sudo apt upgrade
+   sudo apt install hugo
+    ```
 
-	```bash
-	git submodule update --init --remote
-	```
+4. Initialize the Git submodule
 
-4. To preview the site:
+    ```bash    git submodule update --init --remote
+    ```
 
-	```bash
-	hugo serve
-	```
+5. To preview the site:
 
-	Open your browser to: [http://localhost:1313](http://localhost:1313)
+    ```bash
+    hugo serve
+    ```
 
-5. To generate the new site:
+    Open your browser to: [http://localhost:1313](http://localhost:1313)
 
-	```bash
-	hugo
-	```
+6. To generate the new site:
 
-	This will generate the static contents for the site in `docs` directory. Make a new commit and push to master.
+    ```bash
+    hugo
+    ```
+
+    This will generate the static contents for the site in `docs` directory. Make a new commit and push to master.
 
 
 6. Add the flag `--forceSyncStatic` for generating non-content static files
